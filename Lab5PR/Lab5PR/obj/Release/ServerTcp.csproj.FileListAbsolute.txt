@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\bin\Release\Lesson18.exe.config
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\bin\Release\Lesson18.exe
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\bin\Release\Lesson18.pdb
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\obj\Release\ServerTcp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\obj\Release\ServerTcp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\obj\Release\Lesson18.exe
+C:\Users\admin\Desktop\Lesson18-master\Lesson18\obj\Release\Lesson18.pdb
+D:\Lab5PR\Lab5PR\obj\Release\Lesson18.exe
+D:\Lab5PR\Lab5PR\obj\Release\Lesson18.pdb

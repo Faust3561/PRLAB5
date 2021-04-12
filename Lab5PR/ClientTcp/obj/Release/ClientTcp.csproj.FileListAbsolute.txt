@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Release\ClientTcp.exe.config
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Release\ClientTcp.exe
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Release\ClientTcp.pdb
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Release\ClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Release\ClientTcp.exe
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Release\ClientTcp.pdb
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Release\ClientTcp.csprojAssemblyReference.cache

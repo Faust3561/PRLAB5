@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Debug\ClientTcp.exe.config
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Debug\ClientTcp.exe
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\bin\Debug\ClientTcp.pdb
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Debug\ClientTcp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Debug\ClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Debug\ClientTcp.exe
+C:\Users\admin\Desktop\Lesson18-master\ClientTcp\obj\Debug\ClientTcp.pdb
+C:\Users\admin\Desktop\Lab5\ClientTcp\bin\Debug\ClientTcp.exe.config
+C:\Users\admin\Desktop\Lab5\ClientTcp\bin\Debug\ClientTcp.exe
+C:\Users\admin\Desktop\Lab5\ClientTcp\bin\Debug\ClientTcp.pdb
+C:\Users\admin\Desktop\Lab5\ClientTcp\obj\Debug\ClientTcp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Lab5\ClientTcp\obj\Debug\ClientTcp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Lab5\ClientTcp\obj\Debug\ClientTcp.exe
+C:\Users\admin\Desktop\Lab5\ClientTcp\obj\Debug\ClientTcp.pdb
+D:\Lab5PR\ClientTcp\obj\Debug\ClientTcp.exe
+D:\Lab5PR\ClientTcp\obj\Debug\ClientTcp.pdb
